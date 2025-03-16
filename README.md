@@ -106,10 +106,11 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
   <br>
-  <img src="https://github.com/AstroSoup/AstroSoup/blob/main/Resources/tsukasa-phone.gif">
+  <img src="https://github.com/AstroSoup/AstroSoup/blob/main/Resources/tsukasa-phone.gif" width="44%">
 </div>
 <div id="funny stuff" align=center>
-  <h2 align=left>fun stuff</h2>
-<img src="https://readme-jokes.vercel.app/api?theme=vue-dark" alt="Jokes Card" align=center/>
-<img src="https://count.getloli.com/@AstroSoup?theme=miku" alt=":name" align=center/>
+  <h2 align=left>Fun stuff</h2>
+<img src="https://readme-jokes.vercel.app/api?theme=vue-dark" alt="Jokes Card" align=center />
+<br>
+<img src="https://count.getloli.com/@AstroSoup?theme=miku" alt="Counter" align=center width="40%" />
 </div>
