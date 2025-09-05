@@ -29,7 +29,7 @@
       alt="Study"
       width="25"
       height="25"
-      /> I'm 1st year undergraduate student at "System and Applied Software" program at ITMO University
+      /> I'm 2st year undergraduate student at "System and Applied Software" program at ITMO University
   </li>
   <li>
     <img
