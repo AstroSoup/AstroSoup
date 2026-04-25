@@ -1,11 +1,6 @@
  <div id="header", align=center>
    <h1>
-     Hi there <img 
-                src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" 
-                alt="Waving_hand" 
-                width="25" 
-                height="25" 
-                />, I'm AstroSoup. Nice to meet you!
+     Hi there, I'm AstroSoup. Nice to meet you!
    </h1>
    <h3>
      My name is Gorin Semyon, I'm 20 years old and currently studying at ITMO University. Feel free to check out my projects, raise issues and submit PRs if you think something could be better.
