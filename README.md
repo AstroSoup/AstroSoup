@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>Hi there, I'm AstroSoup. Nice to meet you!</h1>
   <h3>
-    My name is Gorin Semyon, I'm 20 years old and currently studying at ITMO University.
+    My name is Semyon Gorin, I'm 20 years old and currently studying at ITMO University.
     Feel free to check out my projects, raise issues and submit PRs if you think something could be better.
   </h3>
 </div>
@@ -103,8 +103,8 @@
   </li>
  </ul>
 </div>
+<h2>My contacts</h2>
 <div id="contacts" align="center">
-  <h2>My contacts</h2>
   <a href="https://t.me/astro_soup">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
