@@ -35,6 +35,7 @@
 </div>
 <h2>Tools and programming languages that I use</h2>
 <div id="tools" align="left">
+<img src="Resources/yuki-typing.gif" align="right" width="40%" alt="Yuki typing" />
 <ul>
   <li>
     <b>Programming languages</b>&nbsp;&nbsp;
@@ -76,20 +77,6 @@
   </li>
 
   <li>
-    <b>OS</b>&nbsp;&nbsp;
-    <img align="top" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-    <img align="top" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
-    <img align="top" src="https://img.shields.io/badge/FreeBSD-870000?style=for-the-badge&logo=freebsd&logoColor=white" alt="FreeBSD" />
-  </li>
-
-  <li>
-    <b>Markup</b>&nbsp;&nbsp;
-    <img align="top" src="https://img.shields.io/badge/Typst-239DAD?style=for-the-badge&logo=typst&logoColor=white" alt="Typst" />
-    <img align="top" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-    <img align="top" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-  </li>
-
-  <li>
     <b>Version control</b>&nbsp;&nbsp;
     <img align="top" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img align="top" src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white" alt="SVN" />
@@ -102,7 +89,7 @@
     <img align="top" src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode" />
   </li>
  </ul>
-  <img src="Resources/yuki-typing.gif" align="right" width="40%" alt="Yuki typing" />
+  
 </div>
 
 <div id="contacts" align="center">
