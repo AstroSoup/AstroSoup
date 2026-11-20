@@ -35,7 +35,6 @@
 </div>
 <h2>Tools and programming languages that I use</h2>
 <div id="tools" align="left">
-<img src="Resources/yuki-typing.gif" align="right" width="40%" alt="Yuki typing" />
 <ul>
   <li>
     <b>Programming languages</b>&nbsp;&nbsp;
@@ -88,10 +87,22 @@
     <img align="top" src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
     <img align="top" src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode" />
   </li>
- </ul>
   
-</div>
+   <li>
+    <b>OS</b>&nbsp;&nbsp;
+    <img align="top" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+    <img align="top" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+    <img align="top" src="https://img.shields.io/badge/FreeBSD-870000?style=for-the-badge&logo=freebsd&logoColor=white" alt="FreeBSD" />
+  </li>
 
+  <li>
+    <b>Markup</b>&nbsp;&nbsp;
+    <img align="top" src="https://img.shields.io/badge/Typst-239DAD?style=for-the-badge&logo=typst&logoColor=white" alt="Typst" />
+    <img align="top" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+    <img align="top" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+  </li>
+ </ul>
+</div>
 <div id="contacts" align="center">
   <h2>My contacts</h2>
   <a href="https://t.me/astro_soup">
@@ -107,5 +118,5 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <br>
-  <img src="Resources/tsukasa-phone.gif" width="44%" alt="Tsukasa with a phone" />
+  <img src="Resources/yuki-typing.gif" align="center" width="40%" alt="Yuki typing" />
 </div>
